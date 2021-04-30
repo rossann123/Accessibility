@@ -1,0 +1,39 @@
+body{
+    background-color: darkslateblue;
+}
+img{
+    height:200px;
+    width:400px;
+}
+.position{
+    margin-left: 150px;
+}
+.brown{
+    color:peru;
+}
+.green{
+    color: olive;
+}
+.pink{
+    color: magenta;
+}
+.list{
+    text-align: right;
+    list-style-position: inside;
+}
+.helvetica{
+    font-family: Helvetica, serif;
+    color:white;
+}
+.sanserif{
+    font-family: SansSerif, serif;
+    color:white;
+}
+.chancery{
+    font-family:"Apple Chancery", serif;
+    color:white;
+}
+.herculanum{
+    font-family: Herculanum, serif;
+    color:white;
+}
